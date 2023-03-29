@@ -1,0 +1,73 @@
+.App {
+  text-align: center; 
+}
+
+.NavLinks {
+  text-align: center;
+}
+.NavButton {
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+.toggler {
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+#footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+#full {
+  padding-bottom: 15vh;
+}
+
+.card-image-top {
+  width: 100%;
+  height: 17vw;
+  object-fit: scale-down;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#carousel {
+  border-radius: 15%;
+  height: 30vw;
+  object-fit: cover;
+}
+
+#aboutIMG {
+  height: 20vw;
+  width: 25vw;
+}
+
+#volunteerIMG {
+  height: 20vw;
+  width: 30vw;
+}
+
+.dog-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20vw;
+  width: 25vw;
+}
+
+.registration {
+  text-align: center;
+}
+
+.dog-props {
+    text-align: center;
+}
+
+.dog-buttons {
+  text-align: center;
+}
